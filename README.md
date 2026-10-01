@@ -10,11 +10,14 @@
 
 ## 👋 About
 
-Full-stack developer building APIs, web platforms and mobile apps — from database schema to the UI.
+Full-stack developer building APIs, web platforms and mobile apps — from database schema to the UI. I like systems that are typed, observable and boring in production.
 
-- 🔧 Backend: NestJS, Bun / Elysia, Node.js, PHP
-- 🎨 Frontend & mobile: React, Vue, React Native
-- 🧱 Focus on typed, maintainable and well-tested code
+- 🔧 **Backend:** Bun + Elysia and NestJS services, Laravel on the PHP side — REST APIs, auth, queues and background jobs, real-time
+- 🎨 **Frontend:** React / Next.js and Vue 3 (Pinia, Vuetify), Tailwind, i18n, charts and dashboards
+- 📱 **Mobile:** React Native / Expo apps with local SQLite storage
+- 🗄 **Data & infra:** PostgreSQL, MySQL, Redis, Drizzle ORM / MikroORM, Docker, S3-compatible storage
+- 💳 **Experience:** SaaS and fintech products, Stripe integrations, high-load systems
+- 🧱 **Focus:** typed, maintainable, well-tested code (Vitest, Jest) with monitoring in production
 
 <br />
 
@@ -22,9 +25,9 @@ Full-stack developer building APIs, web platforms and mobile apps — from datab
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,bun,nestjs,elysia,react,vue,php&theme=dark" alt="languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,bun,elysia,nestjs,laravel&theme=dark" alt="backend" />
 <br />
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,git,github&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,postgres,docker&theme=dark" alt="frontend and infra" />
 
 </div>
 
