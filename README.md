@@ -10,11 +10,11 @@
 
 ## 👋 About
 
-Full-stack developer building APIs, web platforms and mobile apps — from database schema to the UI. I like systems that are typed, observable and boring in production.
+Full-stack developer building APIs, web platforms and mobile apps - from database schema to the UI. I like systems that are typed, observable and boring in production.
 
-- 🔧 **Backend:** Bun + Elysia and NestJS services, Laravel on the PHP side — REST APIs, auth, queues and background jobs, real-time
+- 🔧 **Backend:** Bun + Elysia and NestJS services, Laravel - REST APIs, auth, queues and background jobs
 - 🎨 **Frontend:** React / Next.js and Vue 3 (Pinia, Vuetify), Tailwind, i18n, charts and dashboards
-- 📱 **Mobile:** React Native / Expo apps with local SQLite storage
+- 📱 **Mobile:** React Native / Expo apps
 - 🗄 **Data & infra:** PostgreSQL, MySQL, Redis, Drizzle ORM / MikroORM, Docker, S3-compatible storage
 - 💳 **Experience:** SaaS and fintech products, Stripe integrations, high-load systems
 - 🧱 **Focus:** typed, maintainable, well-tested code (Vitest, Jest) with monitoring in production
